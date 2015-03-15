@@ -3,7 +3,7 @@
 
 `HEADER`: **SPLICE**|0|0|0|0|0|0|0|*Bytes until the end*|
 
-`VERSION`: <**version-string**>
+`VERSION`: <**version-string**> 34 bytes???
 
 `TRACK`: |*ID*|0|0|0|*Sound Name Size*|<**Sound Name**>|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|
 
